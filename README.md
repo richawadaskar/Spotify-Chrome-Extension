@@ -6,9 +6,9 @@ We are looking to build a basic Spotify extension for the Chrome browser, in ord
 
 ## Contributors
 
-Julian Marks
-Richa Wadaskar
-Ash
+* Julian Marks
+* Richa Wadaskar
+* Ash
 
 ### Goals
 
