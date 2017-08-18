@@ -23,3 +23,4 @@ We are looking to build a basic Spotify extension for the Chrome browser, in ord
 ## References
 
 * https://developer.chrome.com/extensions/getstarted
+
