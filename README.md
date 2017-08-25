@@ -6,14 +6,20 @@ We are looking to build a basic Spotify extension for the Chrome browser, in ord
 
 ## Contributors
 
-Julian Marks
-Richa Wadaskar
-Ash
+* Julian Marks
+* Richa Wadaskar
+* Ash
 
-### Goals
+## Goals
 
-#### 17 August 2017
+### 17 August 2017
 
 * Learn the basics of Javascript
 * Create a runnable window for the extension
 * Begin basic formatting for Spotify Info Retrieval
+
+
+
+## References
+
+* https://developer.chrome.com/extensions/getstarted
