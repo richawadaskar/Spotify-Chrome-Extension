@@ -1,16 +1,16 @@
 {
-  "name": "My Extension",
-  "version": "2.1",
-  "description": "Gets information from Google.",
-  "icons": { "128": "spotify.jpeg" },
-  "background": {
-    "persistent": false,
-    "scripts": ["bg.js"]
-  },
-  "permissions": ["http://*.google.com/", "https://*.google.com/"],
+  "manifest_version": 2,
+
+  "name": "Spotify Web Extension",
+  "description": "This extension allows accesible use of Spotify from a web browser.",
+  "version": "1.0",
+
   "browser_action": {
-    "default_title": "",
-    "default_icon": "icon_19.jpeg",
+    "default_icon": "icon.png",
     "default_popup": "popup.html"
-  }
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
 }
