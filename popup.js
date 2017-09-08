@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
       imageResult.hidden = false;
 
     }, function(errorMessage) {
-      renderStatus('Cannot display image. ' + errorMessage);
+      renderStatus('Cannot documentisplay image. ' + errorMessage);
     });
   });
 });
